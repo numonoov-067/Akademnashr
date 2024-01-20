@@ -1,0 +1,13 @@
+@media (max-width:375px) {
+    .header__list{
+        display: none;
+    }.header__container{
+        display: flexك
+    }.header__book-python{
+        display: none;
+    }.header__title{
+        font-size: 25px;
+      
+        text-align: center;
+    }
+}
